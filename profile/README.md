@@ -1,14 +1,14 @@
-#  <img src="https://user-images.githubusercontent.com/61543012/194726852-f0030ee1-51d3-4d17-8105-b34364288223.png" height="35" width="35" align-items="center" justify-content="center" /> 3RUPT
-It is importatnt to query the blockchain for meaningful metrics on upcoming trends in the metaverse. Let us guide you using data analytics and market sentiment.
+#  <img src="https://user-images.githubusercontent.com/61543012/194734399-fb60b593-9b9e-4586-87bf-c29118e516c0.png" height="35" width="35" align-items="center" justify-content="center" /> Tradent
+Building standards allows for predicability in a decentralized network. Decentralizing the practice of standard creation and maintainance is the key. 
 
-## Know when the next big thing in the metaverse is about to 3RUPT
+## Well-rouned and well-tested blockchain technology
 
-😡 Frustrated? Can't seem to buy before the blast-off? 
+📘 Organize your data, records and address information for accessibility.
 
-❓ Use pre-built queries or custom queries, even third-party queries from other dapps.
+🔐 Security is the highest-priority for businesses in the decentralized world.
 
-🔺🔻 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+*️⃣ Enterprise level secuirty for consumer leve interactions.
 
-🚩 Be the FIRST to get the latest and the greatest.
+😶‍🌫️ Keep your identity anonymous and your information private.
 
-#### An ECE Dapp
+#### [An ECE Dapp](https://github.com/eliascharlese)
