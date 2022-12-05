@@ -11,4 +11,4 @@ Building standards allows for predicability in a decentralized network. Decentra
 
 😶‍🌫️ Keep your identity anonymous and your information private.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
