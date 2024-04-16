@@ -1,7 +1,5 @@
 #  <img src="https://user-images.githubusercontent.com/61543012/194734399-fb60b593-9b9e-4586-87bf-c29118e516c0.png" height="35" width="35" align-items="center" justify-content="center" /> Tradent
 
-## Overview
-
 Welcome to Tradent, your partner in securing the digital future. Tradent is a cutting-edge cybersecurity platform that specializes in preserving identity integrity, monitoring assets in real and virtual spaces, and fortifying authentication and data collection practices. This document provides essential information to get you started with Tradent.
 
 [Tradent](https://tradent.framer.ai) - [GG20]() - [Web3 Foundations Grants]()
