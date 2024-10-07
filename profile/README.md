@@ -2,7 +2,7 @@
 
 Welcome to Tradent, your partner in securing the digital future. Tradent is a cutting-edge cybersecurity platform that specializes in preserving identity integrity, monitoring assets in real and virtual spaces, and fortifying authentication and data collection practices. This document provides essential information to get you started with Tradent.
 
-[Tradent](https://tradent.framer.ai) - [GG20]() - [Web3 Foundations Grants]()
+[Tradent](https://tdt.framer.ai) - [GG20]() - [Web3 Foundations Grants]()
 
 ## Features
 
